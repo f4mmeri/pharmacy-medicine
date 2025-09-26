@@ -35,3 +35,5 @@ docker-compose*.yml
 test_*.py
 *_test.py
 
+# Documentation
+README.md
